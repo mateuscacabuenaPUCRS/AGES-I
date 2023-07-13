@@ -1,0 +1,11 @@
+{
+  "short_name": "Sinosserra",
+  "name": "Veículos via Montadora",
+  "id": "/",
+  "start_url": "/index.html",
+  "background_color": "#CCDDFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#CCDDFF",
+  "description": "Auxílio no cadastramento e atualização de informação de produtos"
+}
