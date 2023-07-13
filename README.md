@@ -1,2 +1,6 @@
-# AGES-I
-Nesta cadeira, é realizado um projeto com clientes reais. Visando obter experiência, é reunido uma equipe de estudantes que, juntos, aprendem e desenvolvem de forma independente.
+# Agência Experimental de Engenharia de Software
+
+-  Professor: Daniel Callegari
+-  Código: 46522-04
+-  Semestre: 2023/1
+-  Nota: 8.9
